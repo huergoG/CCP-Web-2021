@@ -25,42 +25,10 @@
   }
 
   .contenido {
-    margin-top: 58px;
+    margin-top: 130px;
   }
 
-  /* h1,h2,h3,h4,h5,h6 {
-      color: rgba(226, 86, 86, 1);
-  }*/
-  /* header {
-    height: 80px; */
-    /* background-image: url("https://concepto.de/wp-content/uploads/2019/06/natacion-e1562943144215.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: bottom; */
-    /* position: fixed;
-    top:0;
-    left: 0;
-    width: 100%;
-    background-color: black;
-    color:#FFFFFF;
-  } */
-  /*h1 {
-      margin-left: 40px;
-  } */
-  /* .container {
-    margin-top: 185px;
-  } */
-  /* selector de id */
-  /*#quienSoy {
-    font-family: "Times New Roman","Arial", sans-serif;
-    font-weight: bold;
-    font-size: 1.2rem;
-    font-style: italic;
-  }
-  #quienSoy h2 {
-    font-size: 1.2rem;
-  }
-  /* Selector de clase */
+   /* Selector de clase */
   :root {
     --borde-imagen:  rgb(255 114 0);
   }
@@ -85,17 +53,3 @@
     width: 200px;
     height: 200px;
   }
-  /*.elemento-texto {
-    text-align: center;
-  }
-
-  table, td{
-
-    border-color: green;
-    border-top: 5px solid red;
-    border-style: dashed;
-    border-top-width:  1px;
-    border-bottom-width: 3px;
-    border-collapse: collapse;
-
-  } */
